@@ -13,7 +13,7 @@
     "taking",
     "app"
   ],
-  "author": "Akhilesh",
+  "author": "Ishu",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
